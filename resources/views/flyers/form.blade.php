@@ -11,8 +11,8 @@
 </div>
 
 <div class="form-group">
-  <label for="postcode">Zip/Postcode:</label>
-  <input type="text" name="postcode" id="postcode" class="form-control" vaule="{{ old('street') }}">
+  <label for="zip">Zip/Postcode:</label>
+  <input type="text" name="zip" id="zip" class="form-control" vaule="{{ old('street') }}">
 </div>
 
 <div class="form-group">
